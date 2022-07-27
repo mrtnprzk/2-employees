@@ -1,0 +1,17 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  min-width: 400px;
+  max-width: 1000px;
+  background-color: silver
+}
+
+.employee-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.thumbnail {
+  width: 300px
+}
